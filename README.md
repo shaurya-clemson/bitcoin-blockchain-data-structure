@@ -28,7 +28,7 @@ and how to create one is covered in class. Requires: Hashing and DSA signatures.
 
 * Add a set of three blocks (see Appendix 2 for the minimal requirements of data
 structure of block) to the genesis block, with each block containing 4 transactions.
-o For simplicity, assume all the transactions are single-input-single-output
+  * For simplicity, assume all the transactions are single-input-single-output
 transactions.
 
 * Provide within the program verification that each cryptographic primitive is being
